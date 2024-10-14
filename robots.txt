@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rijakuhedelo.pages.dev/sitemap.xml
